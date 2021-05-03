@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf6412b3-e77c-40ce-a02f-5c43d5f31e0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/card.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card/card.styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +20,16 @@
     <option name="defaultAccountId" value="72ed92f0-6794-4572-b639-b33f4a1f8902" />
   </component>
   <component name="ProjectId" id="1s1hfUTPJh2OsC7Ad9k7lrrG0Ie" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -38,10 +42,22 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\react\react-warmup\src\components\card" />
       <recent name="D:\Coding\react\react-warmup\src\components\card-list" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -69,11 +85,24 @@
       <workItem from="1620046111914" duration="1000" />
       <workItem from="1620051158867" duration="1713000" />
       <workItem from="1620053039554" duration="563000" />
-      <workItem from="1620053706559" duration="1337000" />
+      <workItem from="1620053706559" duration="2837000" />
     </task>
+    <task id="LOCAL-00001" summary="card-list.component.jsx is added.">
+      <created>1620055105100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620055105100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="card-list.component.jsx is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="card-list.component.jsx is added." />
   </component>
 </project>
