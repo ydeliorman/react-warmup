@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-warmup/static/css/main.3b8579e0.chunk.css",
+    "main.js": "/react-warmup/static/js/main.da526d92.chunk.js",
+    "main.js.map": "/react-warmup/static/js/main.da526d92.chunk.js.map",
+    "runtime-main.js": "/react-warmup/static/js/runtime-main.94f49b43.js",
+    "runtime-main.js.map": "/react-warmup/static/js/runtime-main.94f49b43.js.map",
+    "static/js/2.ec34a688.chunk.js": "/react-warmup/static/js/2.ec34a688.chunk.js",
+    "static/js/2.ec34a688.chunk.js.map": "/react-warmup/static/js/2.ec34a688.chunk.js.map",
+    "static/js/3.a14dfb25.chunk.js": "/react-warmup/static/js/3.a14dfb25.chunk.js",
+    "static/js/3.a14dfb25.chunk.js.map": "/react-warmup/static/js/3.a14dfb25.chunk.js.map",
+    "index.html": "/react-warmup/index.html",
+    "static/css/main.3b8579e0.chunk.css.map": "/react-warmup/static/css/main.3b8579e0.chunk.css.map",
+    "static/js/2.ec34a688.chunk.js.LICENSE.txt": "/react-warmup/static/js/2.ec34a688.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f49b43.js",
+    "static/js/2.ec34a688.chunk.js",
+    "static/css/main.3b8579e0.chunk.css",
+    "static/js/main.da526d92.chunk.js"
+  ]
+}
